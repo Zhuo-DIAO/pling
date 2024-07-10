@@ -6,4 +6,4 @@ dependencies:
   - python =3.9
   - pip
   - pip:
-    - git+https://github.com/Zhuo-DIAO/plasnet_z.git@main
+    - git+https://github.com/Zhuo-DIAO/plasnet_z.git@main --force-reinstall --no-cache-dir
