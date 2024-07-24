@@ -6,4 +6,4 @@ dependencies:
   - python =3.9
   - pip
   - pip:
-    - git+https://github.com/Zhuo-DIAO/plasnet_z.git@d83ebc7cc0c16964025e499fec55920c433e83b6
+    - git+https://github.com/Zhuo-DIAO/plasnet_z.git@3f017ed913f41f64045353afd281fda44dfd5afa
